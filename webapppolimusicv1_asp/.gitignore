@@ -1,0 +1,4 @@
+.workbuddy-ai/
+.env
+.env.*
+*.log
